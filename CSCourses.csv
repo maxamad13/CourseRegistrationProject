@@ -1,0 +1,12 @@
+CourseName,CourseNum,CourseId,SectionNum,MaxStudents,CurrentStudentNum,Instructor,Room
+Introuduction to Computer Science,COMP 1500,12132,2,4,0,Chris Jones,McCord Hall 11
+Computer Programming I,COMP 2140,11416,1,8,0,Guifeng Shao,McCord Hall 11
+Computer Programming II,COMP 2240,10294,1,6,0,Guifeng Shao,McCord Hall 13
+Computer Programming II,COMP 2240,10983,2,3,0,Chris Jones,McCord Hall 13
+Computer Programming II,COMP 2240,12134,3,8,0,Chris Jones,McCord Hall 13
+Discrete Mathematics,COMP 3010,12131,1,6,0,Manar Samad,McCord Hall 6
+Data Structure,COMP 3040,11413,1,5,0,Heh Miao,McCord Hall 13
+Cobol Programming,COMP 3150,12648,1,4,0,Fenghui Yao,McCord Hall 11
+Ethics Profession in Computing,COMP 3190,10539,1,4,0,Chris Jones,McCord Hall 210
+Ethics Profession in Computing,COMP 3190,11417,2,5,0,Tamara Rogers,McCord Hall 210
+Software Engineering,COMP 3300,11294,1,3,0,Manr Samad,McCord Hall 10
